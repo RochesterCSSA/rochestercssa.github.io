@@ -173,8 +173,9 @@ h4, a {
 }
 
 a:hover {
-  color: #d6370c;
-  text-decoration: underline;
+  color: #3E6791;
+  /*color: #d6370c;*/
+  /*text-decoration: underline;*/
 }
 
 a:not([href]):not([tabindex]) {
@@ -10389,7 +10390,8 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  /*color: #f4623a !important;*/
+  color: #FFD100 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
